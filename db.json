@@ -1,0 +1,49 @@
+{
+    "products": [
+      {
+        "id": "6b1d5b60-d91f-11ec-9d64-0242ac120002",
+        "name": "SoundBlast X1",
+        "category": "Headphones",
+        "price": 150,
+        "stock": 35,
+        "rating": 4.7,
+        "image": "/images/headphones-00-01.png",
+        "sale": true,
+        "quantity": 0,
+        "description": {
+          "portuguese": "Fones de ouvido sem fio com cancelamento de ruído, graves potentes e bateria de longa duração.",
+          "english": "Wireless noise-canceling headphones with deep bass and long-lasting battery life."
+        }
+      },
+      {
+        "id": "7c2e4a80-e45f-11ec-9d64-0242ac120002",
+        "name": "BassBoost Pro",
+        "category": "Headphones",
+        "price": 180,
+        "stock": 20,
+        "rating": 4.5,
+        "image": "/images/headphones-00-02.png",
+        "quantity": 0,
+        "sale": false,
+        "description": {
+          "portuguese": "Fones de ouvido premium com drivers de alta fidelidade e cancelamento de ruído ativo.",
+          "english": "Premium headphones with high-fidelity drivers and active noise cancellation."
+        }
+      },
+      {
+        "id": "9d4f6c30-e62b-11ec-9d64-0242ac120002",
+        "name": "UltraSound 500X",
+        "category": "Headphones",
+        "price": 250,
+        "stock": 15,
+        "rating": 4.8,
+        "image": "/images/headphones-00-03.png",
+        "quantity": 0,
+        "sale": true,
+        "description": {
+          "portuguese": "Fones de ouvido sem fio com som imersivo 3D e suporte para áudio Hi-Res.",
+          "english": "Wireless headphones with immersive 3D sound and Hi-Res audio support."
+        }
+      }
+    ]
+  }
