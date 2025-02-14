@@ -1,0 +1,23 @@
+{
+  "name": "ecommerce-json-server",
+  "version": "1.0.0",
+  "description": "Fake API using JSON Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json --port 3000"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DreicLeal/ecommerce-json-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DreicLeal/ecommerce-json-server/issues"
+  },
+  "homepage": "https://github.com/DreicLeal/ecommerce-json-server#readme"
+}
